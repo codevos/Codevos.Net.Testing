@@ -4,12 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Description>Testing interfaces, classes and conventions.</Description>
     <Authors>Roeland Hermans</Authors>
-	  <IsPackable>true</IsPackable>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <DocumentationFile>Codevos.Net.Testing.xml</DocumentationFile>
     <Company>Codevos</Company>
+	  <IsPackable>true</IsPackable>
+    <DocumentationFile>Codevos.Net.Testing.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
